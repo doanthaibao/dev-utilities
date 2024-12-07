@@ -1,0 +1,38 @@
+
+  .container {
+    text-align: center;
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 500px;
+  }
+
+  .body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .body.h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  .body.p {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+
+  /* Toast.css */
+  .toast-custom {
+    background-color:  #6c757d !important; /* Change to your desired background color */
+    color: #ffffff !important; /* Change to your desired text color */
+  }
