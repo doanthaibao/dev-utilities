@@ -22,15 +22,15 @@
   },
   "license": "MIT",
   "author": {
-    "name": "Electron React Boilerplate Maintainers",
-    "email": "electronreactboilerplate@gmail.com",
-    "url": "https://electron-react-boilerplate.js.org"
+    "name": "Dev Utilities",
+    "email": "doanthaibao@gmail.com",
+    "url": "https://github.com/doanthaibao/dev-utilities"
   },
   "contributors": [
     {
-      "name": "Amila Welihinda",
-      "email": "amilajack@gmail.com",
-      "url": "https://github.com/amilajack"
+      "name": "Bao Doan",
+      "email": "doanthaibao@gmail.com",
+      "url": "https://github.com/doanthaibao/dev-utilities"
     }
   ],
   "main": "./.erb/dll/main.bundle.dev.js",
@@ -176,8 +176,8 @@
     "webpack-merge": "^5.9.0"
   },
   "build": {
-    "productName": "ElectronReact",
-    "appId": "org.erb.ElectronReact",
+    "productName": "Dev Utilities",
+    "appId": "org.erb.Dev.Utilities",
     "asar": true,
     "asarUnpack": "**\\*.{node,dll}",
     "files": [
@@ -236,8 +236,8 @@
     ],
     "publish": {
       "provider": "github",
-      "owner": "electron-react-boilerplate",
-      "repo": "electron-react-boilerplate"
+      "owner": "doanthaibao@gmail.com",
+      "repo": "https://github.com/doanthaibao/dev-utilities"
     }
   },
   "collective": {
